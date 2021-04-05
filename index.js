@@ -8,7 +8,7 @@ var mouse = new Mouse('Mikey');
 
 try{
 	cat.eat(dog);
-}catch{
+} catch{
 	console.log('Error while a cat eat a dog! ');
 }
 
